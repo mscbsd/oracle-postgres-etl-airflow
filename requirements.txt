@@ -1,0 +1,6 @@
+apache-airflow
+cx-Oracle
+pandas
+psycopg2
+pendulum
+boto3
